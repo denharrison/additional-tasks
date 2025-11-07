@@ -17,7 +17,6 @@ const countEvenOdd = (nums) => {
             result.odd++
             
         } else {
-
             continue
         }
     }
